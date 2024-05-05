@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3abe1d93-c151-441e-91e2-3ff201f85d99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceRegistry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceRegistry/src/main/java/com/mayank/ServiceRegistry/ServiceRegistryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceRegistry/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/entities/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/entities/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/payload/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/java/com/mayank/UserApplication/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/HotelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/controllers/HotelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/entities/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/repositories/HotelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/service/HotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/java/com/mayank/HotelApplication/service/HotelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/RatingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/controllers/RatingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/entities/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/repository/RatingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/service/RatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/java/com/mayank/RatingApplication/service/RatingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rating/src/main/resources/banner.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f50o5IBpbKDa1GPjMAJYG0BPlF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.HotelApplication.executor": "Debug",
+    "Spring Boot.RatingApplication.executor": "Debug",
+    "Spring Boot.ServiceRegistryApplication.executor": "Debug",
+    "Spring Boot.UserApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/order_managment_springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mayank.UserApplication.entities" />
+      <recent name="com.mayank.HotelApplication.exceptions" />
+      <recent name="com.mayank.UserApplication.payload" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hotel_microservice\rating\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="HotelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hotel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayank.HotelApplication.HotelApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mayank.HotelApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rating" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayank.RatingApplication.RatingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mayank.RatingApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ServiceRegistry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayank.ServiceRegistry.ServiceRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="User" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayank.UserApplication.UserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mayank.UserApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.RatingApplication" />
+        <item itemvalue="Spring Boot.HotelApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3abe1d93-c151-441e-91e2-3ff201f85d99" name="Changes" comment="" />
+      <created>1713075803165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713075803165</updated>
+      <workItem from="1713075804189" duration="332000" />
+      <workItem from="1713076152768" duration="8208000" />
+      <workItem from="1713199364962" duration="4004000" />
+      <workItem from="1713680244439" duration="6006000" />
+      <workItem from="1713891044884" duration="3229000" />
+      <workItem from="1713977492002" duration="1243000" />
+      <workItem from="1714568011824" duration="5611000" />
+      <workItem from="1714895581721" duration="2915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
